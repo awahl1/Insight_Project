@@ -1,0 +1,17 @@
+NAME,MAIN_TYPE,NUM_SENTENCES,PATH,RANDOM,SAMPLE_SIZE,SUBTYPE,UNIQUE_SENTENCES,USE_UNIQUE
+callme,clerical,1000000,/data/callme.json,True,10000,callme,178912,False
+deliverytime,clerical,1000000,/data/deliverytime.json,True,10000,deliverytime,772616,False
+reviewtime,clerical,1000000,/data/reviewtime.json,True,10000,reviewtime,75457,False
+hearfromdr,clerical,1000000,/data/hearfromdr.json,True,10000,hearfromdr,56670,False
+shippingcost,clerical,1000000,/data/shippingcost.json,True,10000,shippingcost,13140,False
+refundpolicy,clerical,1000000,/data/refundpolicy.json,True,10000,refundpolicy,217193,False
+doctorinfo,clerical,1000000,/data/doctorinfo.json,True,10000,doctorinfo,14265,False
+medscape,clinical,51077,/data/medscape_dermatology_articles.json,True,10000,medscape,50895,False
+amazon,clinical,80496,/data/amazon_health_beauty_qs.json,True,10000,amazon,69907,False
+clarity_convos,clinical,1017,/data/clarity_conversations.json,True,1000,clarity_convos,1005,False
+clarity_corpora,clinical,17962,/data/clarity_corpora.json,True,9000,clarity_corpora,15849,False
+clarity_notes,clinical,82,/data/clarity_notes.json,True,71,clarity_notes,71,False
+clarity_messages_client,other,113,/data/clarity_messages_client.json,True,103,clarity_message_client,103,False
+clarity_messages_myhealthassist,other,184,/data/clarity_messages_myhealthassist.json,True,9,clarity_message_myhealthassist,9,False
+stoptaking,clinical,1000000,/data/stoptaking.json,True,20000,stoptaking,989712,False
+causeacne,clinical,1000000,/data/causeacne.json,True,20000,causeacne,618632,False
